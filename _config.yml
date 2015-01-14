@@ -18,15 +18,15 @@ avatar: http://www.gravatar.com/avatar/68945fde19b97bd7f638de65e7e6005b.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
-  facebook: 
+  email: ernerock6@gmail.com  
+  facebook: https://www.facebook.com/ernesto.delfrade
   flickr: 
-  github: barryclark/jekyll-now
-  instagram: 
-  linkedin: 
+  github: ernerock
+  instagram: ernerock 
+  linkedin: www.linkedin.com/pub/ernesto-del-frade/87/a07/82a
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: @ernerock6
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
@@ -37,7 +37,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: www.ernestodelfrade.com
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)

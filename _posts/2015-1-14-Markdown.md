@@ -4,3 +4,8 @@
 ####Even smaller
 #####So much smaller
 ######So tiny
+
+>The worst form of inequality is to try to make unequal things equal
+*Aristotle*
+
+[Visit My Site!](www.ernestodelfrade.com)

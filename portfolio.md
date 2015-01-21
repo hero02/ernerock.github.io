@@ -3,9 +3,8 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-
+![alt text](https://farm8.staticflickr.com/7496/16334986902_191427275d_q.jpg "ernestodelfrade.com")
 [Personal Website:](https://ernerock.github.io/site-personal)
-![alt text](https://ernerock.github.io/site-personal "ernestodelfrade.com")
 
 Cool Gifts: 
 ![alt text](http://coolgifts.us/ "Cool Gifts")

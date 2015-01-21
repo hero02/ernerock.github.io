@@ -9,4 +9,4 @@
 
 *Aristotle*
 
-[Visit My Site!](https://ernestodelfrade.com)
+[Visit My Site!](http://ernestodelfrade.com)

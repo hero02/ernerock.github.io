@@ -4,8 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Personal Website:
-![alt text](https://ernestodelfrade.com "ernestodelfrade.com")
+[Personal Website:](https://ernerock.github.io/site-personal)
+![alt text](https://ernerock.github.io/site-personal "ernestodelfrade.com")
 
 Cool Gifts: 
 ![alt text](http://coolgifts.us/ "Cool Gifts")
